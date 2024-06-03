@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yaraslau</h1>
 <h3 align="center">.NET Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ya-r-k&label=Profile%20views&color=0e75b6&style=flat" alt="ya-r-k" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ya-r-k" alt="ya-r-k" /></a> </p>
 
 - 📫 How to reach me **jaraslau.smyczkou@gmail.com**
